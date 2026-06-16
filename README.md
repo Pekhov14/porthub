@@ -42,3 +42,7 @@ Check and build:
 npm run check
 npm run build
 ```
+
+## License
+
+[MIT](LICENSE)

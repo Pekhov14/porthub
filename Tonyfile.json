@@ -1,3 +1,5 @@
 {
-  "run": "npm run tauri dev"
+  "run": "npm run tauri dev",
+  "build": "npm run tauri build",
+  "icons": "npx tauri icon static/porthub-logo.png"
 }

@@ -1,5 +1,9 @@
 [workspace]
 members = [
-    "database", "porthub-db",
+    "porthub-core",
     "src-tauri"
 ]
+
+[dependencies]
+libsql = "0.9.30"
+anyhow = "1.0.102"

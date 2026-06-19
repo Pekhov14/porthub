@@ -1,9 +1,6 @@
 [workspace]
+resolver = "3"
 members = [
     "porthub-core",
     "src-tauri"
 ]
-
-[dependencies]
-libsql = "0.9.30"
-anyhow = "1.0.102"
